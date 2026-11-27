@@ -1,6 +1,0 @@
-httpx
-google-play-scraper
-pycryptodome
-protobuf
-protobuf-decoder
-PyJWT
